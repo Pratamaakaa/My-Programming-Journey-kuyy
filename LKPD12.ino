@@ -15,5 +15,5 @@ void setup() {
       Serial.print( humidity);
       Serial.print("% suhu: ");
       Serial.print(temperature);
-      Serial.println("◦C ");}   
+      Serial.println("°C ");}   
       delay(2000);}
